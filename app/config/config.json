@@ -1,12 +1,12 @@
 {
 	"db": {
-		"username": "<MongoDBUsername>",
-		"password": "<MongoDBPassword>",
-		"host": "<MongoDBHost>",
-		"port": "<MongoDBPort>",
-		"name": "<MongoDBName>"
+		"username": " ",
+		"password": " ",
+		"host": "localhost",
+		"port": "27017",
+		"name": "chatio"
 	},
-	"sessionSecret": "<RandomString>",
+	"sessionSecret": "'9c952c1b97b7ee7d21a1ad9acec9dca2432a8f0f3b7d4e1837308368d71d2a68e2c83f26f85ae20e45178f1e2288a4e338d1e7289ddbafa9d3c4b5edb7eb11a8'",
 	"facebook": {
 		"clientID": "<AppID>",
 		"clientSecret": "<AppSecret>",
